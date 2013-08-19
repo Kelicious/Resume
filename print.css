@@ -33,12 +33,11 @@ body {
 section {
   width: 552pt;
   margin: auto;
-  margin-top: 0;
+  margin-top: 10px;
 }
 
 .page-box{
   margin: auto;
-  border: 2px solid #999;
   width: 612pt;
 }
 
