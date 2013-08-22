@@ -220,7 +220,8 @@ li.institution{
 }
 
 .selected-experience {
-
+  border-bottom: 1pt solid #999;
+  padding-bottom: 3pt;
 }
 
 .projects > ul {
